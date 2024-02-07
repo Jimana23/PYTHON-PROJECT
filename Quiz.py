@@ -38,7 +38,7 @@ if playing == 'yes':
         print('Incorrect!')
         print(f'current answer is --> random access memory')
 
-# -----3
+
     question_no += 1
     ques = input(f'\n{question_no}. what does PSU stand for? ').lower()
     
